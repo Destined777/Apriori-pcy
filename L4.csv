@@ -1,0 +1,12 @@
+frozenset({'other vegetables', 'rolls/buns', 'whole milk', 'yogurt'}),	0.005998983223182512
+frozenset({'other vegetables', 'whole milk', 'root vegetables', 'yogurt'}),	0.007829181494661922
+frozenset({'other vegetables', 'pip fruit', 'whole milk', 'root vegetables'}),	0.005490594814438231
+frozenset({'tropical fruit', 'whole milk', 'root vegetables', 'yogurt'}),	0.0056939501779359435
+frozenset({'other vegetables', 'tropical fruit', 'whole milk', 'yogurt'}),	0.007625826131164209
+frozenset({'other vegetables', 'tropical fruit', 'whole milk', 'root vegetables'}),	0.007015760040671073
+frozenset({'other vegetables', 'pip fruit', 'whole milk', 'yogurt'}),	0.005083884087442806
+frozenset({'other vegetables', 'whole milk', 'fruit/vegetable juice', 'yogurt'}),	0.005083884087442806
+frozenset({'other vegetables', 'citrus fruit', 'whole milk', 'root vegetables'}),	0.005795627859684799
+frozenset({'other vegetables', 'rolls/buns', 'whole milk', 'root vegetables'}),	0.0062023385866802234
+frozenset({'other vegetables', 'whipped/sour cream', 'whole milk', 'yogurt'}),	0.005592272496187087
+frozenset({'other vegetables', 'whipped/sour cream', 'whole milk', 'root vegetables'}),	0.005185561769191663
